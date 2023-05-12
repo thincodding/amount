@@ -1,0 +1,5 @@
+ចងចាំថា​: នៅពេលដែលយើងចង់ចុចប្តូរpage មួយទៅកាន់pageមួយទៀត. ដាច់ខាតគឺpage is empty។ គឺយើងមិនអាចdesignមុនបានឡើយ។ 
+
+
+មួយទៀតនៅពេលដែលយើង Edit យើងប្រើ ​base_encode in page all-people and  base_decode we use in page edit.
+ one more we cannot space in front of id.

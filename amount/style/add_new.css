@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.label{
+    padding: 10px;
+}
+.inputfirstname{
+    width: 450px;
+    height: 35px;
+    outline: none;
+    padding-left: 10px;
+    margin-left: 40px;
+}
+.inputlastname{
+    width: 450px;
+    height: 35px;
+    outline: none;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.inputphone{
+    width: 450px;
+    height: 35px;
+    outline: none;
+    padding-left: 10px;
+    margin-left: 6px;
+}
+
+.inputemail{
+    width: 450px;
+    height: 35px;
+    outline: none;
+    padding-left: 10px;
+    margin-left: 37px;
+}
+.btn1{
+    background-color: blue;
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: white;
+    outline: none;
+    transition: all 0.3s linear;
+}
+.btn1:hover{
+    background-color: rgb(65, 97, 238);
+}
